@@ -1,22 +1,12 @@
-# Hi, I'm Mandeep Singh 👋
+## Hi, I'm Mandeep Singh 👋
 
-Flutter Developer | AI/ML Enthusiast
+Flutter Developer + AI/ML Engineer building apps where intelligence runs on the device.
 
-I build mobile apps and AI-powered systems.
+🚀 Currently building: On-device ML apps with TFLite + Flutter
+🧠 Learning: Advanced computer vision, model optimization
+📍 Based in India | Open to internships & collaborations
 
-## Skills
-- Flutter
-- Dart
-- Firebase
-- Python
-- PyTorch
-- AI/ML
+**Tech Stack:**
+Flutter · Dart · Python · PyTorch · TFLite · Google ML Kit · FastAPI · Firebase
 
-## Projects
-- Road SOS App
-- CrashGuard
-- Speech Enhancement Pipeline
-
-## Connect with me
-- LinkedIn: https://www.linkedin.com/in/mandeep-singh-ai
-- GitHub: https://github.com/Mandeep15686
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mandeep--singh--ai-blue)](https://linkedin.com/in/mandeep-singh-ai)
